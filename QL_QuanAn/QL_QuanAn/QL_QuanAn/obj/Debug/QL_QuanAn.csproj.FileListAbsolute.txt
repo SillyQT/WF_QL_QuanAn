@@ -1,0 +1,1090 @@
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\QL_QuanAn.exe.config
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\QL_QuanAn.exe
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\QL_QuanAn.pdb
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Data.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Utils.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraBars.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Data.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Utils.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraBars.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.csproj.AssemblyReference.cache
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Home.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Properties.Resources.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.csproj.GenerateResource.cache
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.exe.licenses
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.csproj.CoreCompileInputs.cache
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.csproj.CopyComplete
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.exe
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.pdb
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.CodeParser.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.DataAccess.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Office.v21.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Xpo.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\Newtonsoft.Json.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.DataAccess.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Office.v21.2.Core.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Xpo.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\Newtonsoft.Json.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.AccountManagement.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.ChangePassWord.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.TimeKeeping.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.FoodCategory.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Food.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.SwitchTables.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Table.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.CombineTables.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.FoodRecipes.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Login.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.OrderFood.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.OrderTable.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.ExportBill.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.InfomationTable.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.MessageBoxNotify.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.MessageBoxYesNo.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Revenue.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.SalaryCalculation.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.EmployeeManagement.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Charts.v21.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.PivotGrid.v21.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.RichEdit.v21.2.Export.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Utils.v21.2.UI.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraCharts.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraGauges.v21.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraReports.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraReports.v21.2.Extensions.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraRichEdit.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.DataVisualization.v21.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.DataAccess.v21.2.UI.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraNavBar.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraPivotGrid.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraCharts.v21.2.Extensions.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Images.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraDiagram.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Diagram.v21.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Charts.v21.2.Core.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.PivotGrid.v21.2.Core.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Utils.v21.2.UI.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraCharts.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraGauges.v21.2.Core.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraReports.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraReports.v21.2.Extensions.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraRichEdit.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.DataAccess.v21.2.UI.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraNavBar.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraPivotGrid.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraDiagram.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Diagram.v21.2.Core.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.PivotGrid.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.PivotGrid.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.PivotGrid.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.PivotGrid.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.Utils.v21.2.UI.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.Utils.v21.2.UI.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.Utils.v21.2.UI.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.Utils.v21.2.UI.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraCharts.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraCharts.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraCharts.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraCharts.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraGauges.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraGauges.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraGauges.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraGauges.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraReports.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraReports.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraReports.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraReports.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.DataAccess.v21.2.UI.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.DataAccess.v21.2.UI.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.DataAccess.v21.2.UI.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.DataAccess.v21.2.UI.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraNavBar.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraNavBar.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraPivotGrid.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraPivotGrid.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraPivotGrid.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraPivotGrid.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.Diagram.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.Diagram.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.Diagram.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.Diagram.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.ReportBill.resources
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\QL_QuanAn.exe.config
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\QL_QuanAn.exe
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\QL_QuanAn.pdb
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Charts.v21.2.Core.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.CodeParser.v21.2.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Data.v21.2.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.DataAccess.v21.2.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Office.v21.2.Core.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.PivotGrid.v21.2.Core.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.RichEdit.v21.2.Export.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Utils.v21.2.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Utils.v21.2.UI.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Xpo.v21.2.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraBars.v21.2.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraCharts.v21.2.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraGauges.v21.2.Core.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraReports.v21.2.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraReports.v21.2.Extensions.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\Newtonsoft.Json.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraRichEdit.v21.2.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.DataVisualization.v21.2.Core.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.DataAccess.v21.2.UI.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraNavBar.v21.2.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraPivotGrid.v21.2.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraCharts.v21.2.Extensions.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Images.v21.2.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraDiagram.v21.2.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Diagram.v21.2.Core.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Charts.v21.2.Core.xml
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Data.v21.2.xml
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.DataAccess.v21.2.xml
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Office.v21.2.Core.xml
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.PivotGrid.v21.2.Core.xml
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Utils.v21.2.UI.xml
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Xpo.v21.2.xml
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraBars.v21.2.xml
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraCharts.v21.2.xml
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraGauges.v21.2.Core.xml
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraReports.v21.2.xml
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraReports.v21.2.Extensions.xml
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\Newtonsoft.Json.xml
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraRichEdit.v21.2.xml
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.DataAccess.v21.2.UI.xml
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraNavBar.v21.2.xml
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.xml
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraPivotGrid.v21.2.xml
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraDiagram.v21.2.xml
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Diagram.v21.2.Core.xml
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.Utils.v21.2.UI.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.Utils.v21.2.UI.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.Utils.v21.2.UI.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.Utils.v21.2.UI.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraCharts.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraCharts.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraCharts.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraCharts.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraReports.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraReports.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraReports.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraReports.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraPivotGrid.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraPivotGrid.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraPivotGrid.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraPivotGrid.v21.2.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.csproj.AssemblyReference.cache
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.AccountManagement.resources
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.CombineTables.resources
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.ExportBill.resources
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Food.resources
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.FoodCategory.resources
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.ChangePassWord.resources
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.EmployeeManagement.resources
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.FoodRecipes.resources
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Home.resources
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.InfomationTable.resources
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Login.resources
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.MessageBoxNotify.resources
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.MessageBoxYesNo.resources
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.OrderFood.resources
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.OrderTable.resources
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Properties.Resources.resources
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.ReportBill.resources
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Revenue.resources
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.SalaryCalculation.resources
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.SwitchTables.resources
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Table.resources
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.TimeKeeping.resources
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.csproj.GenerateResource.cache
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.exe.licenses
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.csproj.CoreCompileInputs.cache
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.csproj.CopyComplete
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.exe
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.pdb
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.ReportTimekeeping.resources
+D:\Zalo\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.ReportRevenue.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\QL_QuanAn.exe.config
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\QL_QuanAn.exe
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\QL_QuanAn.pdb
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Charts.v21.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.CodeParser.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Data.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.DataAccess.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Office.v21.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.PivotGrid.v21.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.RichEdit.v21.2.Export.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Utils.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Utils.v21.2.UI.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Xpo.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraBars.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraCharts.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraGauges.v21.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraReports.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraReports.v21.2.Extensions.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\Newtonsoft.Json.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraRichEdit.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.DataVisualization.v21.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.DataAccess.v21.2.UI.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraNavBar.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraPivotGrid.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraCharts.v21.2.Extensions.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Images.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraDiagram.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Diagram.v21.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Charts.v21.2.Core.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Data.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.DataAccess.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Office.v21.2.Core.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.PivotGrid.v21.2.Core.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Utils.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Utils.v21.2.UI.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Xpo.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraBars.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraCharts.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraGauges.v21.2.Core.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraReports.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraReports.v21.2.Extensions.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\Newtonsoft.Json.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraRichEdit.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.DataAccess.v21.2.UI.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraNavBar.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraPivotGrid.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraDiagram.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Diagram.v21.2.Core.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.PivotGrid.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.PivotGrid.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.PivotGrid.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.PivotGrid.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.Utils.v21.2.UI.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.Utils.v21.2.UI.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.Utils.v21.2.UI.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.Utils.v21.2.UI.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraCharts.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraCharts.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraCharts.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraCharts.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraGauges.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraGauges.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraGauges.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraGauges.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraReports.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraReports.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraReports.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraReports.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.DataAccess.v21.2.UI.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.DataAccess.v21.2.UI.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.DataAccess.v21.2.UI.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.DataAccess.v21.2.UI.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraNavBar.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraNavBar.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraPivotGrid.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraPivotGrid.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraPivotGrid.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraPivotGrid.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.Diagram.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.Diagram.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.Diagram.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.Diagram.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.csproj.AssemblyReference.cache
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.AccountManagement.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.CombineTables.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.ExportBill.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Food.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.FoodCategory.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.ChangePassWord.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.EmployeeManagement.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.FoodRecipes.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Home.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.InfomationTable.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Login.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.MessageBoxNotify.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.MessageBoxYesNo.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.OrderFood.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.OrderTable.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Properties.Resources.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.ReportBill.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.ReportRevenue.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.ReportTimekeeping.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Revenue.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.SalaryCalculation.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.SwitchTables.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Table.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.TimeKeeping.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.csproj.GenerateResource.cache
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.exe.licenses
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.csproj.CoreCompileInputs.cache
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.csproj.CopyComplete
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.exe
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.pdb
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\QL_QuanAn.exe.config
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\QL_QuanAn.exe
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\QL_QuanAn.pdb
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Charts.v21.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.CodeParser.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Data.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.DataAccess.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Office.v21.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.PivotGrid.v21.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.RichEdit.v21.2.Export.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Utils.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Utils.v21.2.UI.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Xpo.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraBars.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraCharts.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraGauges.v21.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraReports.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraReports.v21.2.Extensions.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\Newtonsoft.Json.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraRichEdit.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.DataVisualization.v21.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.DataAccess.v21.2.UI.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraNavBar.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraPivotGrid.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraCharts.v21.2.Extensions.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Images.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraDiagram.v21.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Diagram.v21.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Charts.v21.2.Core.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Data.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.DataAccess.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Office.v21.2.Core.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.PivotGrid.v21.2.Core.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Utils.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Utils.v21.2.UI.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Xpo.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraBars.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraCharts.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraGauges.v21.2.Core.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraReports.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraReports.v21.2.Extensions.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\Newtonsoft.Json.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraRichEdit.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.DataAccess.v21.2.UI.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraNavBar.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraPivotGrid.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraDiagram.v21.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Diagram.v21.2.Core.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.PivotGrid.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.PivotGrid.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.PivotGrid.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.PivotGrid.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.Utils.v21.2.UI.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.Utils.v21.2.UI.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.Utils.v21.2.UI.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.Utils.v21.2.UI.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraCharts.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraCharts.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraCharts.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraCharts.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraGauges.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraGauges.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraGauges.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraGauges.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraReports.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraReports.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraReports.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraReports.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.DataAccess.v21.2.UI.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.DataAccess.v21.2.UI.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.DataAccess.v21.2.UI.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.DataAccess.v21.2.UI.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraNavBar.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraNavBar.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.XtraPivotGrid.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.XtraPivotGrid.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.XtraPivotGrid.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.XtraPivotGrid.v21.2.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\de\DevExpress.Diagram.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\es\DevExpress.Diagram.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ja\DevExpress.Diagram.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\ru\DevExpress.Diagram.v21.2.Core.resources.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.csproj.AssemblyReference.cache
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.AccountManagement.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.CombineTables.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.ExportBill.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Food.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.FoodCategory.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.ChangePassWord.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.EmployeeManagement.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.FoodRecipes.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Home.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.InfomationTable.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Login.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.MessageBoxNotify.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.MessageBoxYesNo.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.OrderFood.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.OrderTable.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Properties.Resources.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.ReportBill.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.ReportRevenue.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.ReportTimekeeping.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Revenue.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.SalaryCalculation.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.SwitchTables.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Table.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.TimeKeeping.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.csproj.GenerateResource.cache
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.exe.licenses
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.csproj.CoreCompileInputs.cache
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.csproj.CopyComplete
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.exe
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.pdb
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Bill.resources
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\QL_QuanAn.exe.config
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\QL_QuanAn.exe
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\QL_QuanAn.pdb
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\Newtonsoft.Json.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\Newtonsoft.Json.xml
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.csproj.AssemblyReference.cache
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.AccountManagement.resources
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Bill.resources
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.CombineTables.resources
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.ExportBill.resources
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Food.resources
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.FoodCategory.resources
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.ChangePassWord.resources
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.EmployeeManagement.resources
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.FoodRecipes.resources
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Home.resources
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.InfomationTable.resources
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Login.resources
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.MessageBoxNotify.resources
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.MessageBoxYesNo.resources
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.OrderFood.resources
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.OrderTable.resources
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Properties.Resources.resources
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.ReportBill.resources
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.ReportRevenue.resources
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.ReportTimekeeping.resources
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Revenue.resources
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.SalaryCalculation.resources
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.SwitchTables.resources
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Table.resources
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.TimeKeeping.resources
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.csproj.GenerateResource.cache
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.exe.licenses
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.csproj.CoreCompileInputs.cache
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.csproj.CopyComplete
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.exe
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.pdb
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\QL_QuanAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Statistical.resources
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.BonusSkins.v22.2.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.CodeParser.v22.2.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Data.v22.2.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.DataAccess.v22.2.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Drawing.v22.2.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Office.v22.2.Core.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Utils.v22.2.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Xpo.v22.2.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraBars.v22.2.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraReports.v22.2.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Images.v22.2.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Data.v22.2.xml
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.DataAccess.v22.2.xml
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Office.v22.2.Core.xml
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Xpo.v22.2.xml
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraBars.v22.2.xml
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraReports.v22.2.xml
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+D:\Study\HK5-2023-2024\CongNgheNet\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Statistical.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\QL_QuanAn.exe.config
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\QL_QuanAn.exe
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\QL_QuanAn.pdb
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.BonusSkins.v22.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.CodeParser.v22.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Data.v22.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.DataAccess.v22.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Drawing.v22.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Office.v22.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Utils.v22.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Xpo.v22.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraBars.v22.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraReports.v22.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\Newtonsoft.Json.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Images.v22.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Data.v22.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.DataAccess.v22.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Office.v22.2.Core.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Utils.v22.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Xpo.v22.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraBars.v22.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraReports.v22.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\Newtonsoft.Json.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.csproj.AssemblyReference.cache
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.AccountManagement.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Bill.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.CombineTables.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.ExportBill.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Food.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.FoodCategory.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.ChangePassWord.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.EmployeeManagement.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.FoodRecipes.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Home.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.InfomationTable.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Login.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.MessageBoxNotify.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.MessageBoxYesNo.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.OrderFood.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.OrderTable.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Properties.Resources.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.ReportBill.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.ReportRevenue.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.ReportTimekeeping.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Revenue.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.SalaryCalculation.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Statistical.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.SwitchTables.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Table.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.TimeKeeping.resources
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.csproj.GenerateResource.cache
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.exe.licenses
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.csproj.CoreCompileInputs.cache
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.csproj.CopyComplete
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.exe
+E:\HK V (2023 - 2024)\Cong_Nghe .Net\Du_An\TaiEm\DoAn\QL_QuanAn\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.pdb

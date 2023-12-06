@@ -1,0 +1,397 @@
+﻿<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2E234B9E-F7DC-4B51-9F06-F089116E9866}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QL_QuanAn</RootNamespace>
+    <AssemblyName>QL_QuanAn</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v21.2" />
+    <Reference Include="DevExpress.Charts.v21.2.Core, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.CodeParser.v21.2, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.Desktop.v21.2" />
+    <Reference Include="DevExpress.Data.v21.2" />
+    <Reference Include="DevExpress.DataAccess.v21.2, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Office.v21.2.Core, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Pdf.v21.2.Core, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v21.2.Core, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v21.2.Core" />
+    <Reference Include="DevExpress.RichEdit.v21.2.Core, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.RichEdit.v21.2.Export, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v21.2" />
+    <Reference Include="DevExpress.Utils.v21.2.UI, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpo.v21.2, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v21.2" />
+    <Reference Include="DevExpress.Sparkline.v21.2.Core" />
+    <Reference Include="DevExpress.XtraCharts.v21.2, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v21.2" />
+    <Reference Include="DevExpress.XtraGauges.v21.2.Core, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v21.2, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraReports.v21.2, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v21.2.Extensions, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccountManagement.Designer.cs">
+      <DependentUpon>AccountManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bill.Designer.cs">
+      <DependentUpon>Bill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CombineTables.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CombineTables.Designer.cs">
+      <DependentUpon>CombineTables.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAO\AreaDAO.cs" />
+    <Compile Include="DAO\BillDAO.cs" />
+    <Compile Include="DAO\BillInfoDAO.cs" />
+    <Compile Include="DAO\DataProvider.cs" />
+    <Compile Include="DAO\AccountDAO.cs" />
+    <Compile Include="DAO\EmployeeDAO.cs" />
+    <Compile Include="DAO\FoodCategoryDAO.cs" />
+    <Compile Include="DAO\FoodDAO.cs" />
+    <Compile Include="DAO\FoodRecipesDAO.cs" />
+    <Compile Include="DAO\IngredientDAO.cs" />
+    <Compile Include="DAO\Notification.cs" />
+    <Compile Include="DAO\TableDAO.cs" />
+    <Compile Include="DAO\TimeKeepingDAO.cs" />
+    <Compile Include="DTO\AccountDTO.cs" />
+    <Compile Include="DTO\AreaDTO.cs" />
+    <Compile Include="DTO\BillDTO.cs" />
+    <Compile Include="DTO\BillInfoDTO.cs" />
+    <Compile Include="DTO\FoodCategoryDTO.cs" />
+    <Compile Include="DTO\FoodDTO.cs" />
+    <Compile Include="DTO\FoodRecipesDTO.cs" />
+    <Compile Include="DTO\IngredientDTO.cs" />
+    <Compile Include="DTO\EmployeeDTO.cs" />
+    <Compile Include="DTO\TableDTO.cs" />
+    <Compile Include="DTO\TimeKeepingDTO.cs" />
+    <Compile Include="ExportBill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExportBill.Designer.cs">
+      <DependentUpon>ExportBill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Food.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Food.Designer.cs">
+      <DependentUpon>Food.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FoodCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FoodCategory.Designer.cs">
+      <DependentUpon>FoodCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangePassWord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangePassWord.Designer.cs">
+      <DependentUpon>ChangePassWord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeManagement.Designer.cs">
+      <DependentUpon>EmployeeManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FoodRecipes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FoodRecipes.Designer.cs">
+      <DependentUpon>FoodRecipes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InfomationTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfomationTable.Designer.cs">
+      <DependentUpon>InfomationTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessageBoxNotify.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessageBoxNotify.Designer.cs">
+      <DependentUpon>MessageBoxNotify.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessageBoxYesNo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessageBoxYesNo.Designer.cs">
+      <DependentUpon>MessageBoxYesNo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrderFood.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrderFood.Designer.cs">
+      <DependentUpon>OrderFood.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrderTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrderTable.Designer.cs">
+      <DependentUpon>OrderTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReportBill.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportBill.Designer.cs">
+      <DependentUpon>ReportBill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportRevenue.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportRevenue.Designer.cs">
+      <DependentUpon>ReportRevenue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportTimekeeping.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportTimekeeping.Designer.cs">
+      <DependentUpon>ReportTimekeeping.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Revenue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Revenue.Designer.cs">
+      <DependentUpon>Revenue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SalaryCalculation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SalaryCalculation.Designer.cs">
+      <DependentUpon>SalaryCalculation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Statistical.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Statistical.Designer.cs">
+      <DependentUpon>Statistical.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SwitchTables.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SwitchTables.Designer.cs">
+      <DependentUpon>SwitchTables.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Table.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Table.Designer.cs">
+      <DependentUpon>Table.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TimeKeeping.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TimeKeeping.Designer.cs">
+      <DependentUpon>TimeKeeping.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AccountManagement.resx">
+      <DependentUpon>AccountManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bill.resx">
+      <DependentUpon>Bill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CombineTables.resx">
+      <DependentUpon>CombineTables.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExportBill.resx">
+      <DependentUpon>ExportBill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Food.resx">
+      <DependentUpon>Food.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FoodCategory.resx">
+      <DependentUpon>FoodCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangePassWord.resx">
+      <DependentUpon>ChangePassWord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeManagement.resx">
+      <DependentUpon>EmployeeManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FoodRecipes.resx">
+      <DependentUpon>FoodRecipes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfomationTable.resx">
+      <DependentUpon>InfomationTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessageBoxNotify.resx">
+      <DependentUpon>MessageBoxNotify.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessageBoxYesNo.resx">
+      <DependentUpon>MessageBoxYesNo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderFood.resx">
+      <DependentUpon>OrderFood.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderTable.resx">
+      <DependentUpon>OrderTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ReportBill.resx">
+      <DependentUpon>ReportBill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportRevenue.resx">
+      <DependentUpon>ReportRevenue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportTimekeeping.resx">
+      <DependentUpon>ReportTimekeeping.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Revenue.resx">
+      <DependentUpon>Revenue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SalaryCalculation.resx">
+      <DependentUpon>SalaryCalculation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Statistical.resx">
+      <DependentUpon>Statistical.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SwitchTables.resx">
+      <DependentUpon>SwitchTables.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Table.resx">
+      <DependentUpon>Table.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TimeKeeping.resx">
+      <DependentUpon>TimeKeeping.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\191_170_AnhMeNu.jpg" />
+    <Content Include="Resources\Ban32.png" />
+    <Content Include="Resources\Banan2_32x32_230.jpg" />
+    <Content Include="Resources\banan32x32_230.jpg" />
+    <Content Include="Resources\BanDaDat.jpg" />
+    <Content Include="Resources\bill.png" />
+    <Content Include="Resources\Clock_240_47x47.png" />
+    <Content Include="Resources\Clock_240_47x471.png" />
+    <Content Include="Resources\DoanhThu32x32.jpg" />
+    <Content Include="Resources\forward-media-step.png" />
+    <None Include="Resources\LogoQA.png" />
+    <None Include="Resources\icons8-person-50.png" />
+    <None Include="Resources\logo.png" />
+    <None Include="Resources\icons8-bill-50.png" />
+    <None Include="Resources\icons8-restaurant-table-50.png" />
+    <Content Include="Resources\icons8-restaurant-table-96.png" />
+    <None Include="Resources\icons8-restaurant-table-nobody-96.png" />
+    <None Include="Resources\icons8-restaurant-table-haveorder-96.filemoi.png" />
+    <None Include="Resources\icons8-restaurant-table-nobody-50.png" />
+    <None Include="Resources\icons8-restaurant-table-haveorder-50.png" />
+    <Content Include="Resources\Luong32x32.jpg" />
+    <Content Include="Resources\media-step-back-arrow.png" />
+    <Content Include="Resources\merge.png" />
+    <Content Include="Resources\MNV.png" />
+    <Content Include="Resources\NumBerPhone_240_32x32.png" />
+    <Content Include="Resources\NumBerPhone_240_47x47.png" />
+    <Content Include="Resources\PassWordNew_335_47x47.png" />
+    <Content Include="Resources\PassWordOke_335_47x47.png" />
+    <Content Include="Resources\PassWordOld_335_47x47.png" />
+    <Content Include="Resources\pw.png" />
+    <Content Include="Resources\Restaurent_230_32x32.png" />
+    <Content Include="Resources\table.png" />
+    <Content Include="Resources\ThucAn2_32x32.png" />
+    <Content Include="Resources\ThucAn32x32.png" />
+    <Content Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

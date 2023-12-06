@@ -1,0 +1,1 @@
+sqlcmd -E -S .\MYLE -i data.sql
