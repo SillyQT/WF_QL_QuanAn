@@ -117,7 +117,6 @@ CREATE TABLE NHANVIEN
     SDT VARCHAR(12) NULL CHECK (SDT LIKE '[0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9]'),
     NGAYVAOLAM DATE NULL,
     LUONGCOBAN DECIMAL(12, 2) NULL DEFAULT 0,
-    DAXOA BIT NOT NULL DEFAULT 0
 
     CONSTRAINT PK_NHANVIEN PRIMARY KEY(MANHANVIEN)
 )
@@ -125,7 +124,7 @@ GO
 
 CREATE TABLE TAIKHOAN
 (
-    TENDANGNHAP VARCHAR(50) NOT NULL,
+    TENDANGNHAP VARCHAR(10) NOT NULL,
     MANHANVIEN VARCHAR(10) NOT NULL,
     TENHIENTHI NVARCHAR(50) NOT NULL,
     MATKHAU NVARCHAR(100) NOT NULL,
@@ -200,7 +199,6 @@ CREATE TABLE LOAIMONAN
 (
     MALOAIMONAN INT IDENTITY NOT NULL,
     TENLOAIMONAN NVARCHAR(50) NULL UNIQUE,
-    DAXOA BIT NOT NULL DEFAULT 0,
 
     CONSTRAINT PK_LOAIMONAN PRIMARY KEY(MALOAIMONAN)
 )
@@ -325,7 +323,13 @@ ON LOAIMONAN
 TO nhan_vien
 GO
 
--- admin có quyền db_owner
+-- Tạo nhóm quyền admin
+EXEC sp_addrole 'admin'
+GO
+
+-- Gán db_owner vào nhóm quyền admin
+EXEC sp_addrolemember 'db_owner', 'admin'
+GO
 
 
                                     --Thêm dữ liệu--
@@ -339,8 +343,7 @@ GO
 --NGAYVAOLAM DATE NULL,
 --LUONGCOBAN DECIMAL(12, 2) NULL
 INSERT INTO NHANVIEN(MANHANVIEN, HOTEN, PHAI, NGAYSINH, DIACHI, SDT, NGAYVAOLAM, LUONGCOBAN) VALUES
-('NV001', N'Cao Tấn Công', N'Nam', '2003-10-26', N'17B Tân Trụ, TP. HCM', '0362111265', '2023-10-01', 300000),
-('NV005', N'Thanh Thảo', N'Nữ', '2003-10-26', N'17B Tân Trụ, TP. HCM', '0362111265', '2023-10-01', 100000)
+('NV001', N'Cao Tấn Công', N'Nam', '2003-10-26', N'17B Tân Trụ, TP. HCM', '0362111265', '2023-10-01', 300000)
 GO
 --Thêm tài khoản
 --TENDANGNHAP VARCHAR(10) NOT NULL,
@@ -574,7 +577,7 @@ GO
 
 --Thêm tài khoản
 CREATE PROC USP_InsertAccount
-    @userName VARCHAR(50),
+    @userName VARCHAR(10),
     @staffid VARCHAR(10),
     @displayName NVARCHAR(50),
     @permissionGroupId INT, 
@@ -588,7 +591,7 @@ AS
 				-- Tạo user
 				EXEC sp_adduser @userName, @userName
 				-- Thêm user vào nhóm quyền admin
-				EXEC sp_addrolemember 'db_owner', @userName
+				EXEC sp_addrolemember 'admin', @userName
 			END
 		ELSE IF (@permissionGroupId = (SELECT MaNhom FROM NhomQuyen WHERE TenNhom = N'Nhân viên'))
 			BEGIN
@@ -605,9 +608,18 @@ AS
     END
 GO
 
+--Kiểm tra tồn tại của tài khoản dựa vào mã nhân viên
+CREATE PROC USP_AccountExistsByStaffID
+    @staffid VARCHAR(10)
+AS
+    BEGIN
+        SELECT * FROM TAIKHOAN WHERE MANHANVIEN = @staffid
+    END
+GO
+
 --Xóa tài khoản
 CREATE PROC USP_DeleteAccount
-    @userName VARCHAR(50)
+    @userName VARCHAR(10)
 AS
     BEGIN
 		EXEC sp_dropuser @userName
@@ -624,7 +636,7 @@ AS
     BEGIN
 		WHILE EXISTS (SELECT * FROM TAIKHOAN WHERE MANHANVIEN = @staffid)
 		BEGIN
-			DECLARE @userName VARCHAR(50)
+			DECLARE @userName VARCHAR(10)
 			SELECT @userName = TENDANGNHAP FROM TAIKHOAN WHERE MANHANVIEN = @staffid
 			EXEC sp_dropuser @userName
 			EXEC sp_droplogin @userName
@@ -644,7 +656,7 @@ AS
 	IF (@permissionGroupId = (SELECT MaNhom FROM NhomQuyen WHERE TenNhom = N'Admin'))
 			BEGIN
 				-- Thêm user vào nhóm quyền admin
-				EXEC sp_addrolemember 'db_owner', @userName
+				EXEC sp_addrolemember 'admin', @userName
 				-- Xóa người dùng khỏi nhóm quyền nhân viên
 				EXEC sp_droprolemember 'nhan_vien', @userName
 			END
@@ -653,7 +665,7 @@ AS
 				-- Thêm user vào nhóm quyền nhân viên
 				EXEC sp_addrolemember 'nhan_vien', @userName
 				-- Xóa người dùng khỏi nhóm quyền admin
-				EXEC sp_droprolemember 'db_owner', @userName
+				EXEC sp_droprolemember 'admin', @userName
 			END
 
         UPDATE TAIKHOAN
@@ -664,7 +676,7 @@ GO
 
 --Cài lại mật khẩu
 CREATE PROC USP_ResetPassWord
-    @userName VARCHAR(50)
+    @userName VARCHAR(10)
 AS
     BEGIN
         UPDATE TAIKHOAN
@@ -675,7 +687,7 @@ GO
 
 --Thay đổi mật khẩu
 CREATE PROC USP_ChangePassword
-    @userName VARCHAR(50),
+    @userName VARCHAR(10),
     @password NVARCHAR(100),
     @newPassword NVARCHAR(100)
 AS
@@ -714,7 +726,7 @@ GO
 CREATE PROC USP_GetListEmployee
 AS
     BEGIN
-        SELECT * FROM NHANVIEN WHERE DAXOA = 0
+        SELECT * FROM NHANVIEN
     END
 GO
 
@@ -749,9 +761,7 @@ CREATE PROC USP_DeleteEmployee
     @staffid VARCHAR(10)
 AS
     BEGIN
-        UPDATE NHANVIEN
-        SET DAXOA = 1
-        WHERE MANHANVIEN = @staffid
+        DELETE NHANVIEN WHERE MANHANVIEN = @staffid
     END
 GO
 
@@ -831,7 +841,7 @@ AS
     BEGIN
         SELECT *
         FROM NHANVIEN
-        WHERE [dbo].[fuConvertToUnsign1](HOTEN) LIKE N'%' + [dbo].[fuConvertToUnsign1](@name) + N'%' AND DAXOA = 0;
+        WHERE [dbo].[fuConvertToUnsign1](HOTEN) LIKE N'%' + [dbo].[fuConvertToUnsign1](@name) + N'%';
     END
 GO
 
@@ -840,7 +850,7 @@ CREATE PROC USP_SearchEmployeeBySalary
      @basicsalary DECIMAL(12, 2)
 AS
     BEGIN
-        SELECT * FROM NHANVIEN WHERE LUONGCOBAN = @basicsalary AND DAXOA = 0
+        SELECT * FROM NHANVIEN WHERE LUONGCOBAN = @basicsalary  
     END
 GO
 
@@ -849,17 +859,7 @@ CREATE PROC USP_SearchEmployeeBySex
    @sex NVARCHAR(4)
 AS
     BEGIN
-        SELECT * FROM NHANVIEN WHERE PHAI = @sex AND DAXOA = 0
-    END
-GO
-
---Tìm nhân viên theo lương và giới tính
-CREATE PROC USP_SearchEmployeeBySalaryAndSex
-    @basicsalary DECIMAL(12, 2),
-    @sex NVARCHAR(4)
-AS
-    BEGIN
-        SELECT * FROM NHANVIEN WHERE PHAI = @sex AND LUONGCOBAN = @basicsalary AND DAXOA = 0
+        SELECT * FROM NHANVIEN WHERE PHAI = @sex
     END
 GO
 
@@ -1013,7 +1013,7 @@ GO
 CREATE PROC USP_GetListFoodCategory
 AS
    BEGIN
-    SELECT * FROM LOAIMONAN WHERE DAXOA = 0
+   SELECT * FROM LOAIMONAN
    END
 GO
 
@@ -1032,9 +1032,7 @@ CREATE PROC USP_DeleteFoodCategory
     @foodcategoryid INT
 AS
     BEGIN
-        UPDATE LOAIMONAN
-        SET DAXOA = 1
-        WHERE MALOAIMONAN = @foodcategoryid
+        DELETE LOAIMONAN WHERE MALOAIMONAN = @foodcategoryid
     END
 GO
 
@@ -1239,15 +1237,6 @@ CREATE PROC USP_GetFoodRecipesByFoodID
 AS
     BEGIN
         SELECT * FROM CONGTHUC WHERE MAMONAN = @foodid
-    END
-GO
-
---Xóa món ăn theo loại món ăn
-CREATE PROC USP_DeleteFoodByCategoryID
-    @categoryid INT
-AS
-    BEGIN
-        DELETE MONAN WHERE MALOAIMONAN = @categoryid
     END
 GO
 
