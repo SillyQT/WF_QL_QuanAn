@@ -188,7 +188,7 @@ namespace QL_QuanAn
         void LoadStatusTableIntoComboBox(System.Windows.Forms.ComboBox cb)
         {
             // Tạo danh sách chứa hai trạng thái "Đã đặt" và "Có người"
-            List<string> statusList = new List<string> { "Đã đặt", "Có người" };
+            List<string> statusList = new List<string> { "Trống", "Đã Đặt" };
 
             // Gán danh sách làm nguồn dữ liệu cho ComboBox
             cb.DataSource = statusList;

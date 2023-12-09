@@ -124,7 +124,7 @@ GO
 
 CREATE TABLE TAIKHOAN
 (
-    TENDANGNHAP VARCHAR(10) NOT NULL,
+    TENDANGNHAP VARCHAR(50) NOT NULL,
     MANHANVIEN VARCHAR(10) NOT NULL,
     TENHIENTHI NVARCHAR(50) NOT NULL,
     MATKHAU NVARCHAR(100) NOT NULL,
@@ -153,6 +153,7 @@ CREATE TABLE BAN
     TENBAN NVARCHAR(50) NULL UNIQUE,
     SOLUONGNGUOI INT NULL CHECK (SOLUONGNGUOI > 0),    
     TRANGTHAI NVARCHAR(255) NULL,
+    DAXOA BIT NOT NULL DEFAULT 0,
 
     CONSTRAINT PK_BAN PRIMARY KEY(MABAN),
     CONSTRAINT FK_BAN_KHUVUC FOREIGN KEY(MAKHUVUC) REFERENCES KHUVUC(MAKHUVUC)
@@ -577,7 +578,7 @@ GO
 
 --Thêm tài khoản
 CREATE PROC USP_InsertAccount
-    @userName VARCHAR(10),
+    @userName VARCHAR(50),
     @staffid VARCHAR(10),
     @displayName NVARCHAR(50),
     @permissionGroupId INT, 
@@ -619,7 +620,7 @@ GO
 
 --Xóa tài khoản
 CREATE PROC USP_DeleteAccount
-    @userName VARCHAR(10)
+    @userName VARCHAR(50)
 AS
     BEGIN
 		EXEC sp_dropuser @userName
@@ -636,7 +637,7 @@ AS
     BEGIN
 		WHILE EXISTS (SELECT * FROM TAIKHOAN WHERE MANHANVIEN = @staffid)
 		BEGIN
-			DECLARE @userName VARCHAR(10)
+			DECLARE @userName VARCHAR(50)
 			SELECT @userName = TENDANGNHAP FROM TAIKHOAN WHERE MANHANVIEN = @staffid
 			EXEC sp_dropuser @userName
 			EXEC sp_droplogin @userName
@@ -650,7 +651,7 @@ GO
 CREATE PROC USP_UpdateAccount
     @permissionGroupId INT, 
     @status NVARCHAR(50),
-    @userName VARCHAR(10)
+    @userName VARCHAR(50)
 AS
     BEGIN
 	IF (@permissionGroupId = (SELECT MaNhom FROM NhomQuyen WHERE TenNhom = N'Admin'))
@@ -676,7 +677,7 @@ GO
 
 --Cài lại mật khẩu
 CREATE PROC USP_ResetPassWord
-    @userName VARCHAR(10)
+    @userName VARCHAR(50)
 AS
     BEGIN
         UPDATE TAIKHOAN
@@ -687,7 +688,7 @@ GO
 
 --Thay đổi mật khẩu
 CREATE PROC USP_ChangePassword
-    @userName VARCHAR(10),
+    @userName VARCHAR(50),
     @password NVARCHAR(100),
     @newPassword NVARCHAR(100)
 AS
@@ -1303,7 +1304,7 @@ CREATE PROC USP_GetListTableByArea
     @areaId INT
 AS
     BEGIN
-        SELECT * FROM BAN, KHUVUC WHERE BAN.MAKHUVUC = KHUVUC.MAKHUVUC AND KHUVUC.MAKHUVUC = @areaId
+        SELECT * FROM BAN, KHUVUC WHERE BAN.MAKHUVUC = KHUVUC.MAKHUVUC AND KHUVUC.MAKHUVUC = @areaId AND DAXOA = 0
     END
 GO
 
@@ -1374,7 +1375,9 @@ CREATE PROC USP_DeleteTable
     @tableID INT
 AS
     BEGIN
-        DELETE BAN WHERE MABAN = @tableID
+        UPDATE BAN
+        SET DAXOA = 1
+        WHERE MABAN = @tableID
     END
 GO
 
